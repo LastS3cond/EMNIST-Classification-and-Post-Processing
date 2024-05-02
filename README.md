@@ -33,7 +33,9 @@ pip install -r requirements.txt
 The random paragraphs can be found at https://www.kaggle.com/datasets/nikitricky/random-paragraphs/
 The EMNIST dataset can be found at https://www.kaggle.com/datasets/crawford/emnist
 3. Run the scripts:
+   
 MethodComparison.ipynb, which trains Naive Bayes, Random Forest, K Nearest Neighbors, and a CNN and compares their accuracies over a variety of post-processing.
+
 CNN.ipynb, which solely trains the Convolutional Neural Network and compares a variety of minimum viable probabilities with resulting accuracies
 
 ## License
